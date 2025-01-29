@@ -1,0 +1,5 @@
+tensorflow==2.4.1
+numpy==1.19.5
+nltk==3.5
+mysql-connector-python==8.0.23
+groq==0.1.0
