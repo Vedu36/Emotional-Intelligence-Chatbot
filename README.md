@@ -15,8 +15,8 @@ An AI-powered chatbot that detects emotions and provides personalized responses,
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/emotional-intelligence-chatbot.git
-    cd emotional-intelligence-chatbot
+    git clone https://github.com/Vedu36/Emotional-Intelligence-Chatbot.git
+    cd Emotional-Intelligence-Chatbot
     ```
 
 2. **Create and activate a virtual environment**:
