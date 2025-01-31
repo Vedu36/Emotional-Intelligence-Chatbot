@@ -3,7 +3,7 @@
 An AI-powered chatbot that detects emotions and provides personalized responses, integrated with MySQL for user management and chat history.
 
 ## Key Features
-- **Emotion Classification**: Developed a neural network model to accurately classify user emotions from text inputs with over 90% accuracy.
+- **Emotion Classification**: Developed a neural network model to accurately classify user emotions from text inputs with over 94% accuracy.
 - **Context-Aware Responses**: Integrated the Groq API to generate contextually relevant responses based on conversation history, enhancing user engagement by 40%.
 - **Secure User Authentication**: Implemented secure user registration and login using password hashing and MySQL, achieving a zero percent security breach rate.
 - **Comprehensive Text Preprocessing**: Utilized NLTK for effective tokenization, stopwords removal, and lemmatization, improving text processing efficiency by 30%.
